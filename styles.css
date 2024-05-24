@@ -1,22 +1,21 @@
 body {
-   background: url(img/faded-office.png);
+    background: url(img/faded-office.png) no-repeat center center fixed;
     background-size: cover;
     font-family: "Open Sans", sans-serif;
-    width:none; 
-     margin: 60px;
-    padding: 0px
-    
+    margin: 60px;
+    padding: 0;
 }
+
 h1 {
     font-weight: 800;
-    margin-top:50px; 
-    font-size: 50px
+    margin-top: 50px;
+    font-size: 50px;
 }
 
 .detail {
     font-weight: 500;
     margin-bottom: 30px;
-    font-size: 25px; 
+    font-size: 25px;
 }
 
 #dream {
@@ -24,23 +23,20 @@ h1 {
 }
 
 #btn {
-    padding: 20px 34px; 
+    padding: 20px 34px;
     border: none;
     font-family: inherit;
     background: #0ea5e9;
     color: white;
     font-weight: bold;
     font-size: 18px;
-    margin-right:100px;
+    margin-right: 100px;
 }
-.description{
+
+.description {
     margin-top: 10px;
 }
 
 .title {
     margin-top: 200px;
 }
-
-    
-
-
