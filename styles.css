@@ -4,18 +4,19 @@ body {
     font-family: "Open Sans", sans-serif;
     width:none; 
      margin: 60px;
-    padding: 10px 0px 40px 0px;
+    padding: 0px
     
 }
 h1 {
     font-weight: 800;
     margin-top:50px; 
+    font-size: 50px
 }
 
 .detail {
     font-weight: 500;
     margin-bottom: 30px;
-    font-size: 20px;  
+    font-size: 25px; 
 }
 
 #dream {
